@@ -11432,6 +11432,16 @@ p.lead {
   text-align: left;
 }
 
+#spotify {
+  border-radius:15px; 
+  opacity: 0.75;
+}
+
+#spotify:hover {
+  opacity: 1 !important;
+}
+
+
 section.resume-section {
   display: flex;
   align-items: center;
