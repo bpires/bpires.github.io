@@ -20,7 +20,7 @@ If you like this way of documenting your journey as a WebDev aspirer, feel free 
 
 I'd appreciate it if you say thanks **by ⭐ starring this repo** or mentioning me 😊
 
-I recommend you start with the original template though: it was based on the template [Resume v7.0.5, from Start Bootstrap](https://startbootstrap.com/theme/resume). 
+I recommend you start with the original template though: it was based on the [Resume v7.0.5, from Start Bootstrap](https://startbootstrap.com/theme/resume). 
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-374449?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
