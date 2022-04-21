@@ -23,8 +23,8 @@ I'd appreciate it if you say thanks **by ⭐ starring this repo** or mentioning 
 I recommend you start with the original template though: it was based on the template [Resume v7.0.5, from Start Bootstrap](https://startbootstrap.com/theme/resume). 
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-374449?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-374449?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-374449?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-374449?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 
