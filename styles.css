@@ -98,6 +98,13 @@ a:hover {
   color: #2e93b2;
 }
 
+.bg-primary {
+  background-image: url("./assets/img/background.jpg") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -7809,14 +7816,6 @@ textarea.form-control-lg {
 
 .text-opacity-100 {
   --bs-text-opacity: 1;
-}
-
-
-.bg-primary {
-  background-image: url("./assets/img/background.jpg") !important;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 /*
